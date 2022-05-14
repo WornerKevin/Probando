@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1652271076 source:e:\proyectos codeblocks\parcial 2022 laboratorio\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+
+1652486264 source:e:\proyectos codeblocks\parcial 2022 laboratorio\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1652270399 e:\proyectos codeblocks\parcial 2022 laboratorio\menu.h
+
+1652271076 e:\proyectos codeblocks\parcial 2022 laboratorio\input.h
+
+1652485577 source:e:\proyectos codeblocks\parcial 2022 laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Tipo.h"
+	"Color.h"
+	"Servicio.h"
+	"Mascota.h"
+	"Trabajo.h"
+	"Harcodeo.h"
+
+1652487348 e:\proyectos codeblocks\parcial 2022 laboratorio\tipo.h
+	"Mascota.h"
+
+1652393501 e:\proyectos codeblocks\parcial 2022 laboratorio\color.h
+
+1652393298 e:\proyectos codeblocks\parcial 2022 laboratorio\servicio.h
+
+1652487907 e:\proyectos codeblocks\parcial 2022 laboratorio\mascota.h
+	"Trabajo.h"
+	"Servicio.h"
+	"Tipo.h"
+	"Color.h"
+
+1652393298 e:\proyectos codeblocks\parcial 2022 laboratorio\trabajo.h
+	"Servicio.h"
+	"Fecha.h"
+
+1652483413 e:\proyectos codeblocks\parcial 2022 laboratorio\fecha.h
+
+1652485314 source:e:\proyectos codeblocks\parcial 2022 laboratorio\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mascota.h"
+	"Trabajo.h"
+	"Servicio.h"
+	"Tipo.h"
+	"Color.h"
+	"input.h"
+	"Fecha.h"
+	"Validaciones.h"
+
+1652393309 source:e:\proyectos codeblocks\parcial 2022 laboratorio\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Servicio.h"
+
+1652393298 source:e:\proyectos codeblocks\parcial 2022 laboratorio\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Trabajo.h"
+	"Mascota.h"
+	"Tipo.h"
+	"input.h"
+
+1652393298 source:e:\proyectos codeblocks\parcial 2022 laboratorio\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Color.h"
+
+1652486277 source:e:\proyectos codeblocks\parcial 2022 laboratorio\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Trabajo.h"
+	"Mascota.h"
+	"Tipo.h"
+	"input.h"
+
+1652485474 source:e:\proyectos codeblocks\parcial 2022 laboratorio\harcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Harcodeo.h"
+	"Mascota.h"
+	"Trabajo.h"
+
+1652454344 e:\proyectos codeblocks\parcial 2022 laboratorio\harcodeo.h
+	"Mascota.h"
+	"Trabajo.h"
+
+1652483413 source:e:\proyectos codeblocks\parcial 2022 laboratorio\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fecha.h"
+	"input.h"
+
+1652483370 e:\proyectos codeblocks\parcial 2022 laboratorio\validaciones.h
+
+1652483370 source:e:\proyectos codeblocks\parcial 2022 laboratorio\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"Validaciones.h"
+
