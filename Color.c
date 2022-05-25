@@ -14,6 +14,7 @@ eColor buscarColor(eColor color[],int tam,int id)
 			if(color[i].id == id)
 			{
 				auxColor = color[i];
+				list[i].idCliente = *idCliente;
 			}
 		}
 	}
